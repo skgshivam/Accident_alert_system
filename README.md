@@ -34,6 +34,24 @@ Smart Accident Alert System tries to curb accidents. It is accident detection an
 
 
 &nbsp;
+> ## How To Use This Repo
+
+Run following commands
+
+* `git clone https://github.com/Vineet-Sharma29/Accident_alert_system.git`
+* `cd Accident_alert_system`
+* Repo is organsied into two folder
+  * ###Docs - Contain documents regarding project which were refrenced while making the system
+  * ###Code - Contain running code for the system. Following is the description for each file
+    * #### GSM-GPS.ino
+    * #### Camera.ino - Code for running Arducam OV 7670
+    * #### ReadSerialPortWin.exe - This is Arducam software which is needed as interface between user and OV7670. First run Camera.ino 
+* `cd Code`
+* Run `GSM-GPS.ino` file. This file is used to run GPS, GSM and Vibration Sensor module.
+* Run `Camera.ino` file and then open `ReadSerialPortWin.exe` in order to capture image from Arducam.
+
+
+&nbsp;
 > ## Connection Diagram for Arducam
 
 ![alt text](https://github.com/Vineet-Sharma29/Accident_alert_system/blob/master/Docs/Connection-Diagram.png)
