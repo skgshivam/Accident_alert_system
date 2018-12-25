@@ -185,7 +185,6 @@ long TP_init(){
   return measurement;
 }
 //--------------------------------------------------------
-
 void get_gps()
 {
  while (ss.available() > 0){
@@ -197,7 +196,6 @@ void get_gps()
       Serial.println(gps.location.lng(), 6);
     }
   }
-  
-}
+ }
 //---------------------------------------------------------------------------
 
