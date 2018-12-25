@@ -47,8 +47,8 @@ Run following commands
 * `git clone https://github.com/Vineet-Sharma29/Accident_alert_system.git`
 * `cd Accident_alert_system`
 * Repo is organsied into two folder
-  * ### Docs - Contain documents regarding project which were refrenced while making the system.
-  * ### Code - Contain running code for the system.
+  * __Docs__ - Contain documents regarding project which were refrenced while making the system.
+  * __Code__ - Contain running code for the system.
 * `cd Code`
 * Run `GSM-GPS.ino`. This file is used to run GPS, GSM and Vibration Sensor module.
 * Run `Camera.ino` and then open `ReadSerialPortWin.exe` in order to capture image from Arducam.
