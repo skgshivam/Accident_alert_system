@@ -11,4 +11,4 @@ Smart Accident Alert System tries curb accidents. It is Accident detection and m
 ![alt text](https://github.com/Vineet-Sharma29/Accident_alert_system/blob/master/Docs/Functional-Diagram.PNG)
 
 #Connection Diagram for Arducam
-![alt text](https://github.com/Vineet-Sharma29/Accident_alert_system/blob/master/Docs/Connection-Diagram.PNG)
+![alt text](https://github.com/Vineet-Sharma29/Accident_alert_system/blob/master/Docs/Connection-Diagram.png)
