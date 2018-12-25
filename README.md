@@ -11,7 +11,7 @@ Smart Accident Alert System tries to curb accidents. It is accident detection an
 
 * Driver will be intimated about ‘accident prone zone’ based on the vehicle's coordinates. Hence , the driver will become cautious while driving. 
 
-* An extra module - Camera - is included for further enhancement of the Accident Alert System, which will take picture of the driver in regular intervals and send them to a server via wi-fi. This will help in jugding the behaviour of the driver while driving.
+* An extra module, Camera, is included for further enhancement of the Accident Alert System, which will take picture of the driver in regular intervals and send them to a server via wi-fi. This will help in jugding the behaviour of the driver while driving.
 
 &nbsp;
 > ## Components Required
@@ -24,19 +24,25 @@ Smart Accident Alert System tries to curb accidents. It is accident detection an
 * Connecting Wires
 * 10 K-POT
 * Breadboard or PCB
-* Arducam
+* Arducam - OV7670
 * Wi-fi module(ESP8266)
+
+img[src$="centerme"] {
+  display:block;
+  margin: 0 auto;
+}
+
 
 &nbsp;
 > ## Functional Diagram
 
-![alt text](https://github.com/Vineet-Sharma29/Accident_alert_system/blob/master/Docs/Functional-Diagram.PNG)
+![alt text](https://github.com/Vineet-Sharma29/Accident_alert_system/blob/master/Docs/Functional-Diagram.PNG?style=centerme)
 
 
 &nbsp;
 > ## Connection Diagram for Arducam
 
-![alt text](https://github.com/Vineet-Sharma29/Accident_alert_system/blob/master/Docs/Connection-Diagram.png)
+![alt text](https://github.com/Vineet-Sharma29/Accident_alert_system/blob/master/Docs/Connection-Diagram.png?style=centerme)
 
 
 &nbsp;
