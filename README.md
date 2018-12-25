@@ -27,11 +27,6 @@ Smart Accident Alert System tries to curb accidents. It is accident detection an
 * Arducam - OV7670
 * Wi-fi module(ESP8266)
 
-img[src$="centerme"] {
-  display:block;
-  margin: 0 auto;
-}
-
 
 &nbsp;
 > ## Functional Diagram
