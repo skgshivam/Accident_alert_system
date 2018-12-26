@@ -7,6 +7,9 @@ Due to increasing number of vehicles on roads, accidents are also increasing, an
 Smart Accident Alert System tries to curb accidents. It is accident detection and messaging system using GPS, vibration sensor and GSM module, in which the vibration sensor is used as an input to the system and corresponding response is analyzed by Arduino. If an accident occurs then SMS is send to registered mobile number so that immediate help can be provided.
 The SMS will be sent after 10 seconds so that if the alarm if false, say because of just a bump, the driver can reset the module with the help of a button.
 
+Following link contains demo videos of the system:-<br />
+https://photos.app.goo.gl/nJnSDDQYqH5PE8m68
+
 &nbsp;
 > ## Novelty of the System
 
