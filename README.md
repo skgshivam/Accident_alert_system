@@ -46,7 +46,7 @@ The SMS will be sent after 10 seconds so that if the alarm if false, say because
 
 Run following commands
 
-* `git clone https://github.com/Vineet-Sharma29/Accident_alert_system.git`
+* `git clone https://github.com/skgshivam/Accident_alert_system.git
 * `cd Accident_alert_system`
 * Repo is organsied into two folder
   * __Docs__ - Contain documents regarding project which were refrenced while making the system.
