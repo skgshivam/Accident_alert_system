@@ -58,9 +58,9 @@ Run following commands
 > ## These connections you have to make in the Arduino UNO (according to the code)
 * RXPin : 4
 * TXPin : 2
-* GPSBaud = 9600;
-* SoftwareSerial ss(RXPin, TXPin);
-* LiquidCrystal lcd(A3,A2,A1,10,9,8);
-* SoftwareSerial mySerial(5,6);// 5 RX 6 TX
-* LED_Pin : 7;
-* vibr_Pin : 3;
+* GPSBaud = 9600
+* SoftwareSerial ss(RXPin, TXPin)
+* LiquidCrystal lcd(A3,A2,A1,10,9,8)
+* SoftwareSerial mySerial(5,6) // 5 RX 6 TX
+* LED_Pin : 7
+* vibr_Pin : 3
